@@ -5,7 +5,7 @@
   "version": {
     "major": 7,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "BNBRats",
-      "address": "0x76Ba2F4c2A406D1573B2A24a0FFfefd8Da47F077",
+      "address": "0xE977D05169cd0b17d8e1d4d8496f3BBD597A61bC",
       "symbol": "BNBRats",
       "decimals": 18,
       "chainId": 204,
